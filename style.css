@@ -1,0 +1,27 @@
+.h1{
+    font-size: 20px;
+    width: 100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    background-color: grey;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    color: black;
+}
+
+.span1{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-color: rgb(163, 229, 157);
+}
+
+canvas{
+    border: 5px solid black;
+}
